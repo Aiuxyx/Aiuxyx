@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aiuxyx.Aiuxyxc&left_color=dimgrey&right_color=cornflowerblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aiuxyx.Aiuxyx&left_color=dimgrey&right_color=cornflowerblue"  />
 </div>
 
 ###
